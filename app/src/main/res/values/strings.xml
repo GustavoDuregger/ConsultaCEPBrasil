@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsultaCEPBrasil</string>
+    <string name="inserir_cep">Inserir CEP</string>
+    <string name="pesquisar_com_cep">Pesquisar com CEP</string>
+</resources>
